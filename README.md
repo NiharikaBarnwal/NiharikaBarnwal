@@ -3,12 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niharikabarnwal&label=Profile%20views&color=0e75b6&style=flat" alt="niharikabarnwal" /> </p>
 
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/niharika-barnwal-2a5555272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/niharika-barnwal-2a5555272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
+    <a href="https://www.hackerrank.com/profile/nbniharika24">HackerRank</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
