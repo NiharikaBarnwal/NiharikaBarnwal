@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/niharika-barnwal-2a5555272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://t4.ftcdn.net/jpg/03/00/38/91/360_F_300389126_KCtHlcmpKywDdVoPb55lutmEe1zqqsf0.jpg"></a>
-    <a href="https://www.hackerrank.com/profile/nbniharika24"><img src="https://media.glassdoor.com/sql/811012/hackerrank-squareLogo-1687884162579.png"></a>
+    <a href="https://www.linkedin.com/in/niharika-barnwal-2a5555272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a><br>
+    <a href="https://www.hackerrank.com/profile/nbniharika24">HackerRank</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
