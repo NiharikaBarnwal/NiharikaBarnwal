@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niharika</h1>
-<h5>🌱Frontend Developer</h5>
-<h5>🍃Learning Azure</h5>
-<h5>🌾Learning ML</h5>
+<p>🌱Frontend Developer
+<br>🍃Learning Azure
+<br>🌾Learning ML</p>p
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niharikabarnwal&label=Profile%20views&color=0e75b6&style=flat" alt="niharikabarnwal" /> </p>
 
